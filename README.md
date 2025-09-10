@@ -107,8 +107,7 @@ AuthFlow is a robust, full‑stack authentication system built with React (front
 <summary><strong>Step 1: Clone the repository</strong></summary>
 
 ```bash
-git clone https://github.com/abhrajyoti-01/auth-system.git
-cd auth-system
+git clone https://github.com/abhrajyoti-01/AuthFlow.git
 ```
 </details>
 
